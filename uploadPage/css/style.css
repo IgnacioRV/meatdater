@@ -1,0 +1,27 @@
+#title {
+  margin-top: 90px;
+  text-align:center;
+  color: Black;
+  font-size: 30px;
+}
+
+#up {
+  margin-bottom: 10px;
+  display: inline-block;
+}
+body {
+  background-image: url("https://thumbs.dreamstime.com/z/meat-sausages-salami-pattern-delicious-seamless-design-background-smoked-pepperoni-bologna-68606560.jpg")
+}
+
+.input{
+  
+  background-color:rgba(255,255,255,0.8);
+  width: 75%;
+}
+
+#line {
+  display: inline-block;
+  clear: left;
+   
+  float: left;
+}
